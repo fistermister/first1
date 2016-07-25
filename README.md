@@ -1,2 +1,2 @@
-# om sai ram\
-print("A girl has no name")
+# om sai ram
+print("Its raaga!")
