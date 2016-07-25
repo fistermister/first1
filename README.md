@@ -1,2 +1,2 @@
 # om sai ram\
-print("new to github world!wish me luck!!!")
+print("A girl has no name")
